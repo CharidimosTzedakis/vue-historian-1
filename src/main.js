@@ -8,5 +8,5 @@ new Vue({
 }).$mount('#app')
 
 /*** 
- *  for example, these are some comments written on develop for the first time
+ *  for example, these are written on develop for the first time
  */
